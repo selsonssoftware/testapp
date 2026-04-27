@@ -31,14 +31,14 @@ function App() {
       <Text style={styles.title}>Register</Text>
 
       <TextInput
-        placeholder="Full Name"
+        placeholder="full. code "
         style={styles.input}
         value={name}
         onChangeText={setName}
       />
 
       <TextInput
-        placeholder="Email"
+        placeholder="Email ladhu"
         style={styles.input}
         value={email}
         onChangeText={setEmail}
@@ -46,7 +46,7 @@ function App() {
       />
 
       <TextInput
-        placeholder="Password"
+        placeholder="Password ladhu"
         style={styles.input}
         value={password}
         onChangeText={setPassword}

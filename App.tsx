@@ -38,7 +38,7 @@ function App() {
       />
 
       <TextInput
-        placeholder="Email ladhu"
+        placeholder="Email vundhi"
         style={styles.input}
         value={email}
         onChangeText={setEmail}
@@ -46,7 +46,7 @@ function App() {
       />
 
       <TextInput
-        placeholder="Password ladhu"
+        placeholder="Password vundhi"
         style={styles.input}
         value={password}
         onChangeText={setPassword}
